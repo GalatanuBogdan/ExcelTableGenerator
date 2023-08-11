@@ -1,5 +1,0 @@
-﻿  ConsoleApplication51.cpp
-c:\users\bogdan.galatanu\source\repos\consoleapplication51\consoleapplication51\consoleapplication51.cpp(237): warning C4018: '<': signed/unsigned mismatch
-c:\users\bogdan.galatanu\source\repos\consoleapplication51\consoleapplication51\consoleapplication51.cpp(303): warning C4018: '<': signed/unsigned mismatch
-c:\users\bogdan.galatanu\source\repos\consoleapplication51\consoleapplication51\consoleapplication51.cpp(164): warning C4715: 'numberOfDays': not all control paths return a value
-  ConsoleApplication51.vcxproj -> C:\Users\bogdan.galatanu\source\repos\ConsoleApplication51\Debug\ConsoleApplication51.exe
