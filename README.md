@@ -3,6 +3,7 @@
 ## Description
 This C++ console application is designed to facilitate the management of reservations for specific individuals. While an Excel application might have limitations in generating reservation layouts for extended periods, this console application aims to bridge that gap by providing an efficient solution.
 
+
 ## Features
 - Create and manage reservations for individuals.
 - Generate reservation layouts for extended time frames
@@ -26,3 +27,8 @@ To use this application, follow these steps:
 3. **Compilation:** Compile the main source file using your C++ compiler. For example:
    ```bash
    g++ main.cpp -o reservation_app
+
+## Actual Result
+![](https://github.com/GalatanuBogdan/ExcelTableGenerator/blob/main/result.jpg)
+
+
